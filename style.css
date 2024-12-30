@@ -42,6 +42,8 @@ form input{
 }
 i:hover{
     cursor: pointer;
+    border:#101010 solid;
+    border-radius: 20px;
 }
 .selectContainer img{
     max-width: 2rem ;
