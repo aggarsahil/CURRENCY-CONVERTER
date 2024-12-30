@@ -40,6 +40,9 @@ form input{
     align-items: center;
     margin-top: 2rem;
 }
+i:hover{
+    cursor: pointer;
+}
 .selectContainer img{
     max-width: 2rem ;
 }
