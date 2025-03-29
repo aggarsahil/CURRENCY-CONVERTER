@@ -65,6 +65,7 @@ i:hover{
     font-size: 1rem;
     margin-top: 1rem;
     align-items: baseline;
+    position: fixed;
 }
 .rotation{
     animation: spin 0.5s infinite linear;
